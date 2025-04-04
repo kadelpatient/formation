@@ -11,3 +11,9 @@ bibliography: references.bib
 ligne me vois tu dans ajouter une analyse#1 2+2=5
 
 ***non, ca fait 4***[@Venter2022]
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 25   | NA   | AC   |
+| 17   | AA   | AB   |
+| 43   | BB   | AB   |
